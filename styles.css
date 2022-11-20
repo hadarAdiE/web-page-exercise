@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: sans-serif
+}
+
+.padding {
+    padding: 0px 250px;
+}
+
+
+.header {
+    background-color: #1F2937;
+    color: white;
+    margin: 0;
+    
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.nav h4 {
+    margin-right: auto;
+    margin-bottom: 0px;
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.headercontainer {
+    display: flex;
+    justify-content: center;
+    padding-top: 170px;
+    padding-bottom: 252px;
+    gap: 50px;
+
+}
+
+.boxh1 {
+    flex: 1;
+    
+}
+
+.h1-sec1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.p-sec1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.sign-up {
+    background-color:rgb(63, 136, 233);
+    color: #E5E7EB;
+    padding: 10px 20px;
+    font-weight: 900;
+    font-size: 20px;
+    border-radius: 12px;
+    border: none;
+    
+}
+.boxh2 {
+    background-color: grey;
+    display: flex;
+    flex:1;
+    justify-content: center;
+}
+
+.plcimg {
+    align-self: center;
+    margin-top: 30px;
+}
+
+.
