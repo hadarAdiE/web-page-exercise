@@ -80,4 +80,93 @@ body {
     margin-top: 30px;
 }
 
-.
+.infosec {
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+.infoh2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+    font-size: 18px;
+    color:#1F2937;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid rgb(63 136 233);
+   
+}
+
+.card p {
+    margin: 10px 15px;
+}
+
+.testemonials {
+    background-color: #E5E7EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.testemonials h2 {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    
+}
+
+.testemonials p {
+    text-align: right;
+    font-weight: bolder;
+}
+
+.callto {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    background-color: rgb(63 136 233);
+    color: #E5E7EB;
+    margin: 125px 250px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.callto p {
+    margin: 0px;
+    font-size: 20px; 
+}
+.callto h3 {
+    font-size: 24px;
+    margin: 0px 0px 5px 0px;
+}
+
+.callto button {
+    padding: 2px 30px;
+    border: 2px solid #E5E7EB;
+    border-radius: 10px;
+    background-color:  rgb(63 136 233);
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 30px;
+}
